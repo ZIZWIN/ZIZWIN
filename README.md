@@ -43,7 +43,9 @@ I'm a developer and researcher based in **Bengaluru, India**, passionate about *
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZIZWIN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
+---
+
 ### 📬 Connect with Me
 - 📍 Location: **Bengaluru, Karnataka, India**
-- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your LinkedIn URL here)*
-- ✉️ Reach out via GitHub issues or email!
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan%20BK-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pavan-bk-294887315/)
+- ✉️ Reach out via LinkedIn or GitHub!
