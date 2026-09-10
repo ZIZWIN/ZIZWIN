@@ -58,18 +58,13 @@ I'm a developer and researcher based in **Bengaluru, India**, passionate about b
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ZIZWIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ZIZWIN's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZIZWIN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZIZWIN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZIZWIN/ZIZWIN/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZIZWIN/ZIZWIN/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZIZWIN/ZIZWIN/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 📬 Connect With Me
 
