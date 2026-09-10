@@ -58,14 +58,22 @@ I'm a developer and researcher based in **Bengaluru, India**, passionate about b
 
 ---
 
-### 🐍 Contribution Activity
+### ⚙️ Core Engineering Competencies
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZIZWIN/ZIZWIN/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZIZWIN/ZIZWIN/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZIZWIN/ZIZWIN/output/github-contribution-grid-snake.svg">
-</picture>
+```yaml
+Computer Vision & AI:
+  - Deepfake & synthetic media artifact forensics
+  - Error Level Analysis (ELA) & 2D-FFT frequency spectrum analysis
+  - Feature extraction via CNNs & Vision Transformers (ViT)
 
+Full-Stack Architecture:
+  - High-performance asynchronous microservices with FastAPI & Python
+  - Reactive, type-safe web interfaces with React, TypeScript & Tailwind CSS
+  - Clean API design & interactive OpenAPI documentation
+
+Systems & Workflows:
+  - Containerized deployment with Docker & Docker Compose
+  - Privacy-preserving RAG and personal knowledge indexing
 ### 📬 Connect With Me
 
 <p align="center">
