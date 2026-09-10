@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Pavan BK 👋
-### Aspiring AI/ML Engineer | Computer Vision & Full-Stack Developer
+### BACKEND DEV | Computer Vision & Full-Stack Developer | Aspiring AI/ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-bk-294887315/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZIZWIN)
