@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Pavan BK 👋
-### BACKEND DEV | Computer Vision & Full-Stack Developer | Aspiring AI/ML Engineer
+### Aspiring AI/ML Engineer | Computer Vision & Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-bk-294887315/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZIZWIN)
@@ -13,20 +13,20 @@
 
 ### 👨‍💻 About Me
 
-I'm a developer and researcher based in **Bengaluru, India**, passionate about building intelligent, reliable, and scalable systems. My core focus is **Computer Vision, Deep Learning, and Digital Image Forensics**, backed by strong full-stack foundations with modern APIs and web frameworks.
+I'm a developer and researcher based in **Bengaluru, India**, passionate about building intelligent, privacy-conscious, and scalable software. My work bridges **Computer Vision & Deep Learning Forensics** with **Retrieval-Augmented Generation (RAG) & Full-Stack Web Systems**.
 
-- 🔭 **Currently Building:** End-to-end multi-modal deepfake detection pipelines.
-- 🌱 **Learning & Researching:** Multimodal architectures, diffusion model artifact forensics, and vision transformers.
-- 💬 **Ask me about:** Python, PyTorch, OpenCV, Image Forensics, FastAPI, and React.
-- ⚡ **Fun Fact:** Generative models always leave invisible fingerprints in the frequency domain!
+- 🔭 **Focus Areas:** Deepfake Forensics, Multimodal Signal Processing, Personal Knowledge Engines (RAG).
+- 💬 **Ask me about:** Python, PyTorch, OpenCV, TypeScript, FastAPI, React, and Vector Search.
+- ⚡ **Philosophy:** Engineering systems with explainability, privacy, and real-world utility in mind.
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Projects Showcase
+
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **🛡️ DEEPFAKE-AI-** | Python, PyTorch, FastAPI, React, TypeScript, Tailwind | Multi-modal deepfake detection platform analyzing 14 forensic layers (ELA, FFT spectrum, noise residue) combined with deep neural networks (CNNs & ViT). | [Repository](https://github.com/ZIZWIN/DEEPFAKE-AI-) |
 | **🧠 Personal AI Knowledge Assistant** | TypeScript, Node.js, Vector DB, LLMs | Privacy-first personal knowledge vault allowing semantic indexing, fuzzy search, and interactive conversational Q&A across personal documents, notes, and code snippets. | [Repository](https://github.com/ZIZWIN/personal-ai-knowledge-assistant) |
-
-
-| **🛡️ DEEPFAKE-AI-** | Python, PyTorch, FastAPI, React, TypeScript, Tailwind | Multi-modal deepfake detection engine analyzing 14 forensic layers (ELA, FFT spectrum, noise residue) and neural networks (CNN & ViT). | [Repo](https://github.com/ZIZWIN/DEEPFAKE-AI-) |
 
 ---
 
@@ -42,8 +42,9 @@ I'm a developer and researcher based in **Bengaluru, India**, passionate about b
 </p>
 
 <p align="center">
-  <b>Backend & Infrastructure</b><br>
+  <b>Backend & Data</b><br>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
@@ -60,20 +61,22 @@ I'm a developer and researcher based in **Bengaluru, India**, passionate about b
 
 ### ⚙️ Core Engineering Competencies
 
-```yaml
-Computer Vision & AI:
+- **Computer Vision & AI:**
   - Deepfake & synthetic media artifact forensics
   - Error Level Analysis (ELA) & 2D-FFT frequency spectrum analysis
-  - Feature extraction via CNNs & Vision Transformers (ViT)
+  - Deep feature extraction via CNNs & Vision Transformers (ViT)
 
-Full-Stack Architecture:
+- **Full-Stack Architecture:**
   - High-performance asynchronous microservices with FastAPI & Python
   - Reactive, type-safe web interfaces with React, TypeScript & Tailwind CSS
   - Clean API design & interactive OpenAPI documentation
 
-Systems & Workflows:
+- **Systems & Workflows:**
   - Containerized deployment with Docker & Docker Compose
   - Privacy-preserving RAG and personal knowledge indexing
+
+---
+
 ### 📬 Connect With Me
 
 <p align="center">
