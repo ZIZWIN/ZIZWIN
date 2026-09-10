@@ -39,11 +39,9 @@ I'm a developer and researcher based in **Bengaluru, India**, passionate about *
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZIZWIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ZIZWIN's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIZWIN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ZIZWIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ZIZWIN's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZIZWIN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
-
----
 
 ### 📬 Connect with Me
 - 📍 Location: **Bengaluru, Karnataka, India**
