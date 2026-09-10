@@ -25,8 +25,7 @@ I'm a developer and researcher based in **Bengaluru, India**, passionate about b
 ### 🚀 Featured Project
 | **🧠 Personal AI Knowledge Assistant** | TypeScript, Node.js, Vector DB, LLMs | Privacy-first personal knowledge vault allowing semantic indexing, fuzzy search, and interactive conversational Q&A across personal documents, notes, and code snippets. | [Repository](https://github.com/ZIZWIN/personal-ai-knowledge-assistant) |
 
-| Project | Tech Stack | Description | Links |
-| :--- | :--- | :--- | :---: |
+
 | **🛡️ DEEPFAKE-AI-** | Python, PyTorch, FastAPI, React, TypeScript, Tailwind | Multi-modal deepfake detection engine analyzing 14 forensic layers (ELA, FFT spectrum, noise residue) and neural networks (CNN & ViT). | [Repo](https://github.com/ZIZWIN/DEEPFAKE-AI-) |
 
 ---
