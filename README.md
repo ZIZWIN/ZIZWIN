@@ -23,6 +23,7 @@ I'm a developer and researcher based in **Bengaluru, India**, passionate about b
 ---
 
 ### 🚀 Featured Project
+| **🧠 Personal AI Knowledge Assistant** | TypeScript, Node.js, Vector DB, LLMs | Privacy-first personal knowledge vault allowing semantic indexing, fuzzy search, and interactive conversational Q&A across personal documents, notes, and code snippets. | [Repository](https://github.com/ZIZWIN/personal-ai-knowledge-assistant) |
 
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :---: |
