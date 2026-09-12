@@ -71,33 +71,26 @@ I'm a developer and researcher based in **Bengaluru, India**, passionate about b
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 💻 Developer Profile (`developer.py`)
 
-<div align="center">
+```python
+from dataclasses import dataclass
+from typing import List
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZIZWIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ZIZWIN's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIZWIN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+@dataclass
+class Developer:
+    name: str = "Pavan BK"
+    alias: str = "ZIZWIN"
+    role: str = "AI/ML Engineer & Full-Stack Developer"
+    location: str = "Bengaluru, India"
+    languages: List[str] = ("Python", "TypeScript", "JavaScript", "C++")
+    domains: List[str] = (
+        "Computer Vision & Deepfake Forensics",
+        "Multimodal Deep Learning (CNNs, ViTs)",
+        "RAG & Knowledge Retrieval Systems",
+        "Modern Glassmorphic Web Architecture"
+    )
+    current_focus: str = "Engineering scalable AI tools & privacy-first software"
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZIZWIN&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
-
-</div>
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavan-bk-294887315/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ZIZWIN" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://zizwin.github.io/orbit-bio/" target="_blank">
-    <img src="https://img.shields.io/badge/Bio%20Page-Orbit.bio-7928ca?style=for-the-badge&logo=safari&logoColor=white" alt="Orbit.bio" />
-  </a>
-</p>
+dev = Developer()
+print(f"🚀 Building: {dev.domains[0]} | {dev.domains[2]}")
