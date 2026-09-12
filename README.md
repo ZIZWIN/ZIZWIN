@@ -71,26 +71,34 @@ I'm a developer and researcher based in **Bengaluru, India**, passionate about b
 
 ---
 
-### 💻 Developer Profile (`developer.py`)
+### 🔬 Engineering & Research Focus
 
-```python
-from dataclasses import dataclass
-from typing import List
+- **🛡️ Deep Learning & Forensics:** Investigating media artifacts via Error Level Analysis (ELA), 2D Fourier Transform (FFT) spectrum analysis, and deep neural networks to identify synthetic media and deepfakes.
+- **⚡ Retrieval-Augmented Generation (RAG):** Building privacy-first vector knowledge vaults utilizing semantic embeddings, vector similarity search, and conversational LLM integrations.
+- **🎨 Modern Web Architecture:** Designing high-performance client-side web apps using vanilla web APIs, IndexedDB offline binary storage, and glassmorphic UI aesthetics.
 
-@dataclass
-class Developer:
-    name: str = "Pavan BK"
-    alias: str = "ZIZWIN"
-    role: str = "AI/ML Engineer & Full-Stack Developer"
-    location: str = "Bengaluru, India"
-    languages: List[str] = ("Python", "TypeScript", "JavaScript", "C++")
-    domains: List[str] = (
-        "Computer Vision & Deepfake Forensics",
-        "Multimodal Deep Learning (CNNs, ViTs)",
-        "RAG & Knowledge Retrieval Systems",
-        "Modern Glassmorphic Web Architecture"
-    )
-    current_focus: str = "Engineering scalable AI tools & privacy-first software"
+---
 
-dev = Developer()
-print(f"🚀 Building: {dev.domains[0]} | {dev.domains[2]}")
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavan-bk-294887315/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ZIZWIN" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://zizwin.github.io/orbit-bio/" target="_blank">
+    <img src="https://img.shields.io/badge/Bio%20Page-Orbit.bio-7928ca?style=for-the-badge&logo=safari&logoColor=white" alt="Orbit.bio" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/z1zw1n/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:pavanbkumarbk123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
